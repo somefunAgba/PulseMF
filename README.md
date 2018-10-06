@@ -7,11 +7,11 @@ A special case of the [M-Fuzzy-Membership Function](https://github.com/somefunAg
 
 OPTION = 0, 1
 
-> 0 -> Low-Triggered Pulse, output = 1010
+###### 0 -> Low-Triggered Pulse, output = 1010
 
-> 1 -> High-Triggered Pulse, output = 0101 [Default]
+###### 1 -> High-Triggered Pulse, output = 0101 [Default]
 
-PARAMS = [X0,X1,..,X5] is an 5-element vector that determines the break points of this membership function.
+###### PARAMS = [X0,X1,..,X5] is an 5-element vector that determines the break points of this membership function.
 
 ##### Example:
 
