@@ -1,4 +1,5 @@
-# PulseMF
+# PulseMF [![DOI](https://zenodo.org/badge/151828731.svg)](https://zenodo.org/badge/latestdoi/151828731)
+
 ##### Pulsating Membership Functions
 A special case of the [M-Fuzzy-Membership Function](https://github.com/somefunAgba/MFuzzyMF)
 
