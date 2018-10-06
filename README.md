@@ -16,7 +16,7 @@ PARAMS = [X0,X1,..,X5] is an 5-element vector that determines the break points o
 
 ![url](pulse_view.svg)
 
-```
+```Matlab
 x = 0:0.1:10;
 subplot(421); ax11 = plot(x, pulsemf(x, [2.5 3 4 4.5 5.5], 0), '--.b');
 ax11.LineWidth = 1.5;ax11.MarkerSize = 10;
