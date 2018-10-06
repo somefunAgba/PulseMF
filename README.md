@@ -1,0 +1,2 @@
+# PulseMF
+Pulsating Membership Functions
